@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/placesListFragment"
+        android:icon="@drawable/ic_place"
+    android:title="Lugares" />
+    <item
+        android:id="@id/contactsListFragment"
+        android:icon="@drawable/ic_contacts"
+    android:title="Contactos" />
+</menu>
